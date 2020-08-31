@@ -1,6 +1,6 @@
-# Mental Models I Find Repeatedly Useful
+# Mental Models
 
-Important Note: This list is taken from a blog post named [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) written by Gabriel Weinberg. I am keeping this in git to make my own use and local modifications.
+**Important Note:** This list is taken from a blog post named [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) written by Gabriel Weinberg. I am keeping this in git to make my own use and local modifications.
 
 A mental model is just a concept you can use to help try to explain things (e.g. [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) — “never attribute to malice that which is adequately explained by carelessness.”). There are tens of thousands of mental models, and every discipline has their own set that you can learn through coursework, mentorship, or first-hand experience. The mental models are used frequently in day-to-day decision making, problem solving, and truth seeking. As [Munger says](https://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/), “80 or 90 important models will carry about 90% of the freight in making you a worldly‑wise person.”
 
@@ -228,7 +228,7 @@ A mental model is just a concept you can use to help try to explain things (e.g.
 # **Sports**
 
 - (2) [Psychological Momentum](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.01328/full) — Psychological momentum (PM) is conceptualized as a perceptual phenomenon that changes human behavior and performance. It is “experienced as a psychological force in which several factors or qualities converge in a synergistic way to enable one to perform at a level not ordinarily possible”. Tennis pros, for example, can grow more confident after winning a game. But if such a single successful performance does not lead to an altered state of mind according to which they see success becoming a real possibility and sense things going inevitably their way, they will not have PM that can be ridden to further success. 
-- (2) [Unforced Error](https://en.wikipedia.org/wiki/Glossary_of_tennis_terms#U) — In tennis, an “error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player; contrasted with a **[forced error](https://en.wikipedia.org/wiki/Unforced_error#Forced_error),” “an error caused by an opponent’s good play.”
+- (2) [Unforced Error](https://en.wikipedia.org/wiki/Glossary_of_tennis_terms#U) — In tennis, an “error in a service or return shot that cannot be attributed to any factor other than poor judgement and execution by the player; contrasted with a [forced error](https://en.wikipedia.org/wiki/Unforced_error#Forced_error),” “an error caused by an opponent’s good play.”
 - (3) [Hail Mary Pass](https://en.wikipedia.org/wiki/Hail_Mary_pass) — “A very long forward pass in American football, made in desperation with only a small chance of success… has become generalized to refer to any last-ditch effort with little chance of success.”
 
 # **Market Failure**
